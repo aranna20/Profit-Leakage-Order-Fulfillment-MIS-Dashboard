@@ -94,7 +94,7 @@ AND()
 
 ## Dashboard Preview
 
-> Add a screenshot of the dashboard here.
+![Profit Leakage Dashboard](dashboard.png)
 
 ---
 
